@@ -4,7 +4,8 @@
   "description": "Uma plataforma de perguntas e respostas no estilo do yahoo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "Fellipe M Dino",
