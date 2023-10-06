@@ -1,0 +1,17 @@
+{
+  "name": "dino-yahoo",
+  "version": "1.0.0",
+  "description": "Uma plataforma de perguntas e respostas no estilo do yahoo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fellipe M Dino",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}

@@ -1,0 +1,2 @@
+# Dino's Yahoo
+Este é um projeto de um sistema de perguntas e respostas no estilo do Yahoo, criado usando Node.js e EJS. O objetivo deste projeto é permitir que os usuários possam fazer perguntas e receber respostas de outros usuários. 
